@@ -2,11 +2,13 @@
 
 # Florex Labs
 
+<sub>GitHub org: <code>florextech</code></sub>
+
 **Independent engineering lab for AI-native products, developer platforms, and open source systems.**
 
 We build things we want to use — fast, opinionated, and production-minded.
 
-[florexlabs.com](https://florexlabs.com) • [All Repositories](https://github.com/florextech?tab=repositories) • [Open Source](https://github.com/florextech?tab=repositories&q=&type=public&language=&sort=stargazers)
+[florexlabs.com](https://florexlabs.com) • [All Repositories](https://github.com/florextech?tab=repositories) • [Open Source Projects](https://github.com/search?q=user%3Aflorextech+fork%3Afalse&type=repositories)
 
 ![Independent Lab](https://img.shields.io/badge/Independent-Lab-0b0f19?style=flat-square)
 ![AI Native](https://img.shields.io/badge/AI-Native-111827?style=flat-square)
