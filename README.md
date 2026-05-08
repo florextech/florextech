@@ -2,41 +2,83 @@
 
 # Florex Labs
 
-**Independent software lab shipping AI-native products, developer tools, and open source systems.**
+**Independent engineering lab for AI-native products, developer platforms, and open source systems.**
 
 We build things we want to use — fast, opinionated, and production-minded.
 
 [florexlabs.com](https://florexlabs.com) • [All Repositories](https://github.com/florextech?tab=repositories) • [Open Source](https://github.com/florextech?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-![Independent](https://img.shields.io/badge/Independent-Lab-0b0f19?style=flat-square)
-![AI Native](https://img.shields.io/badge/AI-Native-121826?style=flat-square)
+![Independent Lab](https://img.shields.io/badge/Independent-Lab-0b0f19?style=flat-square)
+![AI Native](https://img.shields.io/badge/AI-Native-111827?style=flat-square)
+![Open Source Ecosystem](https://img.shields.io/badge/Open%20Source-Ecosystem-1f2937?style=flat-square)
+![Product Engineering](https://img.shields.io/badge/Product-Engineering-1e293b?style=flat-square)
 ![TypeScript First](https://img.shields.io/badge/TypeScript-First-1d4ed8?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open-Source-1f2937?style=flat-square)
-![Ship Fast](https://img.shields.io/badge/Ship-Fast-111827?style=flat-square)
+![Shipping Mode](https://img.shields.io/badge/Shipping-Mode-0f172a?style=flat-square)
 
 </div>
 
 ---
 
-## Built like a startup. Shipped like a product team.
+## Future-facing software, built in public.
 
-Florex Labs is where product engineering, AI systems, and developer experience meet.
-Not a consulting shop. Not a slide deck factory.
+Florex Labs is a living ecosystem of product engineering, AI systems, tooling, and platform experiments.
 
+Not a consulting shop. Not a slide deck factory.  
 Just a living lab that ships software.
+
+---
+
+## Ecosystem, not a single project
+
+- **Tooling** → dev-first products that reduce friction
+- **Infrastructure** → cloud-native building blocks for reliable shipping
+- **Experiments** → rapid iteration surfaces for new product bets
+- **AI systems** → practical agent workflows connected to real delivery
+- **Platforms** → full-stack products with strong DX and clear architecture
 
 ---
 
 ## What we’re actively building
 
-- **AI & Agent ecosystem** — practical tooling for real workflows, not demos
-- **Developer tooling** — desktop apps, local-first tools, agent infrastructure
-- **Open source products** — reusable systems people can run, fork, and extend
-- **Full-stack engineering** — frontend, backend, data, and platform as one system
-- **Design systems** — clean UI foundations built for speed and consistency
-- **Automation** — workflows that remove repetitive engineering overhead
-- **Cloud-native infrastructure** — resilient delivery with modern platform patterns
+- **AI & Agent ecosystem** — practical systems for real engineering loops
+- **Developer tooling** — desktop apps, local tools, agent interfaces
+- **Open source products** — reusable repos teams can run, fork, and extend
+- **Full-stack engineering** — frontend, backend, data, and infra as one flow
+- **Design systems** — scalable UI primitives with product-quality polish
+- **Automation** — workflow orchestration for faster shipping
+- **Cloud-native infrastructure** — resilient, production-minded platform patterns
 - **TypeScript-first ecosystem** — shared language across product and tooling
+
+---
+
+## Featured projects
+
+### 🌩️ [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
+Break your network on purpose. Test products against real-world chaos before users do.  
+`TypeScript` `Docker` `Chaos Engineering` `Developer Experience`
+
+### 📟 [Logcat Desk](https://github.com/florextech/logcat-desk)
+Desktop-grade Android Logcat workflow for macOS with live ADB streams and focused filtering.  
+`Electron` `React` `TypeScript` `Desktop Tooling`
+
+### 🎨 [Florex UI](https://github.com/florextech/florex-ui)
+Dark-first React design system with accessible components and clean token architecture.  
+`React` `Tailwind CSS` `Design System` `Frontend Platform`
+
+### 🤖 [Agent Bridge](https://github.com/florextech/agent-bridge)
+Notification infrastructure for code agents across chat, email, and terminal surfaces.  
+`NestJS` `Next.js` `AI Agents` `Automation`
+
+---
+
+## Stack snapshot
+
+```txt
+Frontend   → React · Next.js · TailwindCSS
+Backend    → Node.js · NestJS
+Infra      → Docker · Cloudflare · Supabase
+Language   → TypeScript
+```
 
 ---
 
@@ -49,29 +91,13 @@ Just a living lab that ships software.
 
 ---
 
-## Featured projects
-
-### [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
-Local chaos proxy + dashboard + CLI for testing unstable internet and API behavior.
-
-### [Logcat Desk](https://github.com/florextech/logcat-desk)
-Modern Android Logcat desktop app for macOS with live ADB streaming and powerful filtering.
-
-### [Florex UI](https://github.com/florextech/florex-ui)
-Dark-first React design system with accessible components and scalable tokens.
-
-### [Agent Bridge](https://github.com/florextech/agent-bridge)
-Multi-channel notification infrastructure for code agents across chat, email, and terminal surfaces.
-
----
-
 ## How we work
 
-- **Product taste + engineering depth**
+- **Startup speed, product standards**
 - **Small teams, high ownership**
 - **AI as leverage, not decoration**
-- **Open source as a real distribution channel**
-- **Ship, learn, iterate**
+- **Open source as real distribution**
+- **Ship, learn, iterate, repeat**
 
 ---
 
@@ -79,8 +105,8 @@ Multi-channel notification infrastructure for code agents across chat, email, an
 
 - Browse the full [Florex Labs ecosystem](https://github.com/florextech?tab=repositories)
 - Follow the lab at [florexlabs.com](https://florexlabs.com)
-- Start with [Florex UI](https://github.com/florextech/florex-ui), [Agent Bridge](https://github.com/florextech/agent-bridge), or [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
+- Start with [Florex UI](https://github.com/florextech/florex-ui), [Agent Bridge](https://github.com/florextech/agent-bridge), [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator), or [Logcat Desk](https://github.com/florextech/logcat-desk)
 
 ---
 
-**Florex Labs** — a live lab for people who like building real products, in public, at startup speed.
+**Florex Labs** — building the next wave of developer products, one shipped experiment at a time.
