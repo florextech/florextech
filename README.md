@@ -2,138 +2,85 @@
 
 # Florex Labs
 
-**Independent software lab building modern digital products, AI-native tooling, and open source systems.**
+**Independent software lab shipping AI-native products, developer tools, and open source systems.**
 
-We design, ship, and scale products at the intersection of **AI agents**, **developer platforms**, **full-stack engineering**, and **cloud-native infrastructure**.
+We build things we want to use — fast, opinionated, and production-minded.
 
-`AI Ecosystem` • `Developer Tooling` • `Open Source` • `Automation` • `Design Systems`
+[florexlabs.com](https://florexlabs.com) • [All Repositories](https://github.com/florextech?tab=repositories) • [Open Source](https://github.com/florextech?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-[Website](https://florexlabs.com) • [Repositories](https://github.com/florextech?tab=repositories) • [Open Source](https://github.com/florextech?tab=repositories&q=&type=public&language=&sort=stargazers)
-
-![Independent Lab](https://img.shields.io/badge/Independent-Lab-111827?style=flat-square)
-![AI & Agents](https://img.shields.io/badge/AI%20%26%20Agents-0F172A?style=flat-square)
-![Developer Tooling](https://img.shields.io/badge/Developer%20Tooling-1E293B?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-MIT-334155?style=flat-square)
-![Cloud Native](https://img.shields.io/badge/Cloud-Native-475569?style=flat-square)
-![TypeScript First](https://img.shields.io/badge/TypeScript-First-0B57D0?style=flat-square)
+![Independent](https://img.shields.io/badge/Independent-Lab-0b0f19?style=flat-square)
+![AI Native](https://img.shields.io/badge/AI-Native-121826?style=flat-square)
+![TypeScript First](https://img.shields.io/badge/TypeScript-First-1d4ed8?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open-Source-1f2937?style=flat-square)
+![Ship Fast](https://img.shields.io/badge/Ship-Fast-111827?style=flat-square)
 
 </div>
 
 ---
 
-## Why this lab stands out
+## Built like a startup. Shipped like a product team.
 
-| Signal | What you can expect |
-| --- | --- |
-| ⚡ **Execution speed** | Tight build loops, practical product shipping, and clear engineering scope |
-| 🧠 **AI-native mindset** | Agents and automation integrated into real developer workflows |
-| 🧱 **System thinking** | From UI foundations to backend architecture and infrastructure decisions |
-| 🔓 **Open source by design** | Public repos that act as reusable references, not just showcases |
+Florex Labs is where product engineering, AI systems, and developer experience meet.
+Not a consulting shop. Not a slide deck factory.
+
+Just a living lab that ships software.
 
 ---
 
-## Who we are
+## What we’re actively building
 
-Florex Labs is an **independent engineering lab** focused on building software that feels modern, useful, and durable.
-
-We work across the full product surface — from **frontend systems** and **backend architecture** to **developer tools**, **AI platforms**, **automation workflows**, and **design systems**. The goal is simple: build products and infrastructure that teams actually want to use.
-
----
-
-## What we build
-
-| Area | What it means at Florex Labs |
-| --- | --- |
-| 🤖 **AI & Agent ecosystem** | Tools, platforms, and integrations that make code agents and AI workflows practical in real teams |
-| 🛠️ **Developer tooling** | Desktop apps, local tooling, MCP servers, internal-grade DX products, and engineering accelerators |
-| 🌐 **Modern product platforms** | Full-stack applications built with product clarity, performance, and operational simplicity |
-| 🎨 **Design systems** | Reusable UI systems, component libraries, and scalable frontend foundations |
-| ⚙️ **Automation** | Developer workflows, notifications, orchestration, and repeatable delivery systems |
-| ☁️ **Cloud-native infrastructure** | Platform thinking built around containers, edge delivery, managed services, and resilient architecture |
+- **AI & Agent ecosystem** — practical tooling for real workflows, not demos
+- **Developer tooling** — desktop apps, local-first tools, agent infrastructure
+- **Open source products** — reusable systems people can run, fork, and extend
+- **Full-stack engineering** — frontend, backend, data, and platform as one system
+- **Design systems** — clean UI foundations built for speed and consistency
+- **Automation** — workflows that remove repetitive engineering overhead
+- **Cloud-native infrastructure** — resilient delivery with modern platform patterns
+- **TypeScript-first ecosystem** — shared language across product and tooling
 
 ---
 
-## Current Focus
+## Current energy
 
-- Building the next layer of the **AI + agent ecosystem** for modern engineering teams
-- Shipping **developer tooling with product quality**, not internal-tool UX
-- Creating **open source systems** that teams can adopt or adapt quickly
-- Scaling **TypeScript-first full-stack architecture** from UI to infrastructure
-- Expanding **automation-first delivery** across cloud-native stacks
-
----
-
-## Engineering Philosophy
-
-- **Product-minded engineering** — every technical decision should improve usability, speed, or leverage
-- **Full-stack by default** — frontend, backend, data, infrastructure, and DX are part of the same system
-- **AI as leverage** — we care about practical augmentation, not empty hype
-- **Open source as an R&D surface** — public work sharpens systems, documentation, and product thinking
-- **Clean systems scale better** — good architecture, good interfaces, and good tooling compound over time
-
-> We build with the mindset of a startup, the standards of an engineering team, and the long-term thinking of an open source lab.
+- Shipping products in public
+- Running fast experiments
+- Turning internal-grade ideas into open source tools
+- Building for builders: engineers, operators, and product teams
 
 ---
 
-## Technical Signals
+## Featured projects
 
-- **TypeScript-first architecture** across frontend, backend, and tooling
-- **Design system discipline** for reusable, maintainable UI
-- **Cloud-native infrastructure patterns** with Docker + edge-first delivery
-- **Automation as default behavior** for ops, notifications, and workflows
-- **DX-first product design** for developers as primary users
+### [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
+Local chaos proxy + dashboard + CLI for testing unstable internet and API behavior.
 
----
+### [Logcat Desk](https://github.com/florextech/logcat-desk)
+Modern Android Logcat desktop app for macOS with live ADB streaming and powerful filtering.
 
-## Core Stack
+### [Florex UI](https://github.com/florextech/florex-ui)
+Dark-first React design system with accessible components and scalable tokens.
 
-| Surface | Technologies |
-| --- | --- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Mobile** | React Native |
-| **Backend** | Node.js, NestJS |
-| **Data** | PostgreSQL, Supabase |
-| **Infrastructure** | Docker, Cloudflare |
-| **Approach** | Automation, cloud-native delivery, design systems, developer-first workflows |
+### [Agent Bridge](https://github.com/florextech/agent-bridge)
+Multi-channel notification infrastructure for code agents across chat, email, and terminal surfaces.
 
 ---
 
-## Featured Open Source
+## How we work
 
-| Project | What it is | Focus |
-| --- | --- | --- |
-| [**Chaos Internet Simulator**](https://github.com/florextech/chaos-internet-simulator) | Local chaos proxy + dashboard + CLI for testing unstable internet and API conditions | Chaos engineering, DX, Docker, TypeScript |
-| [**Logcat Desk**](https://github.com/florextech/logcat-desk) | Android Logcat desktop app for macOS with live ADB streaming, filtering, export, and a modern UI | Desktop tooling, Electron, React, TypeScript |
-| [**Florex UI**](https://github.com/florextech/florex-ui) | Dark-first React component library with accessible components, design tokens, and Tailwind CSS foundations | Design systems, React, Tailwind CSS |
-| [**Agent Bridge**](https://github.com/florextech/agent-bridge) | Multi-channel notification platform for code agents across Telegram, email, and web terminal surfaces | AI agents, notifications, NestJS, Next.js |
-
----
-
-## Ecosystem Snapshot
-
-| Signal | Snapshot |
-| --- | --- |
-| **Public repositories** | 10 public repositories across tooling, platforms, UI systems, and agent infrastructure |
-| **Primary language** | TypeScript-first ecosystem |
-| **Open source model** | Public-by-default where open distribution creates product and ecosystem value |
-| **Build style** | Modern web, desktop, agent tooling, and platform engineering |
+- **Product taste + engineering depth**
+- **Small teams, high ownership**
+- **AI as leverage, not decoration**
+- **Open source as a real distribution channel**
+- **Ship, learn, iterate**
 
 ---
 
 ## Explore the ecosystem
 
-If you're into **AI tooling**, **developer infrastructure**, **modern product engineering**, or **open source systems**, you're in the right place.
-
-Start here:
-
-- Browse the full [Florex Labs repository ecosystem](https://github.com/florextech?tab=repositories)
-- Explore [Florex UI](https://github.com/florextech/florex-ui) for design system work
-- Check out [Agent Bridge](https://github.com/florextech/agent-bridge) for AI-agent communication infrastructure
-- Test failure scenarios with [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
+- Browse the full [Florex Labs ecosystem](https://github.com/florextech?tab=repositories)
 - Follow the lab at [florexlabs.com](https://florexlabs.com)
+- Start with [Florex UI](https://github.com/florextech/florex-ui), [Agent Bridge](https://github.com/florextech/agent-bridge), or [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
 
 ---
 
-**Florex Labs** — building software infrastructure for the next generation of products, developers, and AI-powered workflows.
-
-If this README gives you ideas for your own engineering profile, take the structure, adapt it, and build your own lab narrative.
+**Florex Labs** — a live lab for people who like building real products, in public, at startup speed.
