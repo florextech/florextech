@@ -55,7 +55,7 @@ Just a living lab that ships software.
 
 ## Featured projects
 
-### 🌩️ [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
+### 🌩️ [Chaos Internet Simulator](https://github.com/florextech/chaos-Internet-simulator)
 Break your network on purpose. Test products against real-world chaos before users do.  
 `TypeScript` `Docker` `Chaos Engineering` `Developer Experience`
 
@@ -107,7 +107,7 @@ Language   → TypeScript
 
 - Browse the full [Florex Labs ecosystem](https://github.com/florextech?tab=repositories)
 - Follow the lab at [florexlabs.com](https://florexlabs.com)
-- Start with [Florex UI](https://github.com/florextech/florex-ui), [Agent Bridge](https://github.com/florextech/agent-bridge), [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator), or [Logcat Desk](https://github.com/florextech/logcat-desk)
+- Explore by focus: AI systems, developer tooling, design systems, and cloud-native product infrastructure.
 
 ---
 
