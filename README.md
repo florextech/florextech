@@ -102,7 +102,7 @@ We work across the full product surface — from **frontend systems** and **back
 
 | Project | What it is | Focus |
 | --- | --- | --- |
-| [**Chaos Internet Simulator**](https://github.com/florextech/chaos-Internet-simulator) | Local chaos proxy + dashboard + CLI for testing unstable internet and API conditions | Chaos engineering, DX, Docker, TypeScript |
+| [**Chaos Internet Simulator**](https://github.com/florextech/chaos-internet-simulator) | Local chaos proxy + dashboard + CLI for testing unstable internet and API conditions | Chaos engineering, DX, Docker, TypeScript |
 | [**Logcat Desk**](https://github.com/florextech/logcat-desk) | Android Logcat desktop app for macOS with live ADB streaming, filtering, export, and a modern UI | Desktop tooling, Electron, React, TypeScript |
 | [**Florex UI**](https://github.com/florextech/florex-ui) | Dark-first React component library with accessible components, design tokens, and Tailwind CSS foundations | Design systems, React, Tailwind CSS |
 | [**Agent Bridge**](https://github.com/florextech/agent-bridge) | Multi-channel notification platform for code agents across Telegram, email, and web terminal surfaces | AI agents, notifications, NestJS, Next.js |
@@ -129,7 +129,7 @@ Start here:
 - Browse the full [Florex Labs repository ecosystem](https://github.com/florextech?tab=repositories)
 - Explore [Florex UI](https://github.com/florextech/florex-ui) for design system work
 - Check out [Agent Bridge](https://github.com/florextech/agent-bridge) for AI-agent communication infrastructure
-- Test failure scenarios with [Chaos Internet Simulator](https://github.com/florextech/chaos-Internet-simulator)
+- Test failure scenarios with [Chaos Internet Simulator](https://github.com/florextech/chaos-internet-simulator)
 - Follow the lab at [florexlabs.com](https://florexlabs.com)
 
 ---
